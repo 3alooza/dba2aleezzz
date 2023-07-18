@@ -1,0 +1,7 @@
+Student,gpa,java.lang.Double,false,null,null,0.7,5
+Student,date,java.lang.Date,false,student_date_sparse,SparseIndex,2000/01/01,2025/12/31
+Student,name,java.lang.String,false,null,null,A,zzzzzzzzzzzzzzzzzzzz
+Student,id,java.lang.Integer,true,student_id_sparse,SparseIndex,0,1000000000
+club,year_of_est,java.lang.Integer,false,null,null,1800,2050,
+club,name,java.lang.String,false,null,null,A,zzzzzzzzzzzzzz,
+club,id,java.lang.Integer,true,null,null,0,1000000000,
